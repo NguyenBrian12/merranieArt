@@ -38,7 +38,12 @@
 	color: #777777;
 	font-weight: 300
 }
-
+.section-gap p{
+	color: white;
+}
+.section-gap h6{
+	color: white;
+}
 body {
 	color: #777;
 	font-family: 'Playfair Display', serif;
@@ -176,7 +181,7 @@ h5,
 h6,
 .h6 {
 	font-size: 14px;
-	color: #222
+	color: #222;
 }
 
 td,
@@ -795,7 +800,7 @@ h5 {
 }
 
 h6 {
-	font-size: 20px
+	font-size: 20px;
 }
 
 h1,
@@ -2167,9 +2172,11 @@ nav a:hover {
 }
 
 .single-feature {
-	text-align: center
+	text-align: center;
 }
-
+.feature-area{
+	background: #f9f9ff;
+}
 .single-feature .lnr {
 	color: #fcd2ff;
 	font-size: 30px
@@ -2725,7 +2732,7 @@ footer .footer-nav li a:hover {
 }
 
 .single-footer-widget h6 {
-	color: #777;
+
 	font-weight: 500
 }
 

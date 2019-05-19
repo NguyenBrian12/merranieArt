@@ -28,6 +28,9 @@ import SorakaClose from "./artworks/Soraka Flower Close-Up_Portfolio.jpg"
 import Syndra from "./artworks/Syndra & Flower_Portfolio.png"
 import TetraWill from "./artworks/Tetra Leo & Willum Scorpio Art Trade For Morthor.png"
 import Mel from "./artworks/921453_10153245565253344_2947847158047255132_o.png"
+import Illustrator from "./artworks/Illustrator_Icon_Portfolio.png"
+import PS from "./artworks/Photoshop_Icon_Portfolio.png"
+
 function App() {
   return (
     <div className="App">
@@ -60,11 +63,11 @@ function App() {
             </div>
 					<div class="row">
 						<div class="col-lg-6 col-sm-6 single-feature">
-							<span class="lnr lnr-cog"></span>
+							<div ><img src={Illustrator} style={{"width": "25%"}}></img></div>
 							<h2>Illustrator</h2>
 						</div>
 						<div class="col-lg-6 col-sm-6 single-feature">
-							<span class="lnr lnr-database"></span>
+						<div ><img src={PS} style={{"width": "25%"}}></img></div>
 							<h2>Photoshop</h2>
 						</div>
 					</div>
