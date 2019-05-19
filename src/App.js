@@ -82,7 +82,6 @@ function App() {
 							<p>
 							The following illustrations demonstrate my creativity and versatility with different styles. Some of the illustrations I have included here showcase my explorations with both anatomy and stylistic interpretations. Featured here is a work I painted in Photoshop. It was inspired from a game called 'League of Legends', owned by Riot Games. I painted the character named 'Soraka' if she were much younger and sporting a onesie, along with her familiar 'Shisa' who weilds Soraka's staff. I enjoyed experimenting with different color palettes and tackling different approaches to rendering it.
 							</p>
-							<button class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Learn More</span><span class="lnr lnr-arrow-right"></span></button>
 						</div>
 						<div class="col-lg-5 core-feature-right">
             <img class="img-fluid" src={BabySoraka} alt=""></img>
@@ -124,7 +123,6 @@ function App() {
 							</h2>
 							<p>
 							Some of the freelance works I have featured below display the experiences I had in working with commissioners. I learned how to communicate, understand and execute what was requested of the commissioner. The illustration I have featured here was a commission I had finished mid-January 2019. The commissioner requested a character sprite in different frames for a simple walking animation. I worked with a partner who sketched out the basics and linework for his (the commissioner) character while I went in and colored it. Exploring different color schemes and theories was a completely new experience for me that helped me understand different values and hues to use when it came to shading and lighting.							</p>
-							<button class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Learn More</span><span class="lnr lnr-arrow-right"></span></button>
 						</div>
 					</div>
 					<section class="core-feature-bottom-area"  style={{"padding":"20px"}}>
@@ -161,7 +159,6 @@ function App() {
 							</h2>
 							<p>
 							This section features various works that I had mostly done traditionally with pencil and paper -- instead of the digital works I featured above. It also includes the simple line work of how expressive lines can help clean up a sketch. The work I have featured is a close-up of a peony flower I drew for one of my other sketches. Here you can see the amount of detailed I went in so as to really illustrate that this is not just any flower, but a peony flower. You can also see that I used different line weight to try and imitate as if the flower were blooming on Soraka's (the character in the work) chest.							</p>
-							<button class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Learn More</span><span class="lnr lnr-arrow-right"></span></button>
 						</div>
 						<div class="col-lg-5 core-feature-right">
             <img class="img-fluid" src={SorakaClose} alt=""></img>
