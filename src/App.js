@@ -113,7 +113,7 @@ function App() {
 			</section>
 				</div>
 			</section>
-			<section class="core-feature-area"  style={{"padding":"20px"}}>
+			<section class="core-feature-area"  style={{"padding":"100px"}}>
 				<div class="container">
           <div class="row align-items-center justify-content-between">
 						<div class="col-lg-5 core-feature-left">
