@@ -53,8 +53,8 @@ function App() {
               <div class="banner-content text-center">
                 <h1 class="text-white">Melanie Chen</h1>
                 <p>
-                  Freelance Artist studying Graphic Design at Calfornia State
-                  University, San Francisco
+                  Freelance Artist studying Graphic Design at San Francisco
+                  State University.
                 </p>
                 <img src={Mel} style={{ width: "50%" }}></img>
                 <div style={{ padding: "10px" }}>
